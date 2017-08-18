@@ -1,0 +1,12 @@
+[Notebook]
+version=0.4
+name=Anarchy-Laptop
+interwiki=anlap
+home=Anarchy
+icon=~/Persistent/Tor Browser/Pictures/lmeow.png
+document_root=~/Persistent
+shared=True
+endofline=unix
+disable_trash=False
+profile=darkcloudops
+
